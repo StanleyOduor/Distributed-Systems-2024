@@ -1,5 +1,4 @@
-# load_balancer
-CS60002: Distributed Systems 
+# load_balancer 
 
 ## Assignment 1: Implementing a Customizable Load Balancer with consistent hashing
 Contributors for this project are:
